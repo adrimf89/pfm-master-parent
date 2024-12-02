@@ -85,7 +85,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub Adria Martinez Fortuny Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/adrimf89/pfm-master-parent</url>
+			<url>https://maven.pkg.github.com/adrimf89/pfm-project</url>
 		</repository>
 	</distributionManagement>
 
